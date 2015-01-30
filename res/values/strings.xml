@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMICalculator7</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="english">English</string>
+    <string name="metric">Metric</string>
+    <string name="heightlbl">Enter height</string>
+    <string name="weight">Enter Weight</string>
+    <string name="blank"></string>
+    <string name="hval">Inches</string>
+    <string name="wval">lbs</string>
+
+</resources>
